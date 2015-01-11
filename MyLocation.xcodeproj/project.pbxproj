@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B4C89B621A3E21FB004F91DA /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
 		B4F042F81A3D0AE0009E47EA /* MyLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F042FC1A3D0AE0009E47EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4F042FD1A3D0AE0009E47EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 			children = (
 				B4F042FD1A3D0AE0009E47EA /* AppDelegate.swift */,
 				B4F042FF1A3D0AE0009E47EA /* ViewController.swift */,
+				B4C89B621A3E21FB004F91DA /* Location.gpx */,
 				B4F043011A3D0AE0009E47EA /* Main.storyboard */,
 				B4F043041A3D0AE0009E47EA /* Images.xcassets */,
 				B4F043061A3D0AE0009E47EA /* LaunchScreen.xib */,
@@ -405,6 +407,7 @@
 				B4F043191A3D0AE1009E47EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4F0431A1A3D0AE1009E47EA /* Build configuration list for PBXNativeTarget "MyLocationTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				B4F0431C1A3D0AE1009E47EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
